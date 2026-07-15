@@ -5,7 +5,10 @@
 # Dictionaries can be modified by adding, changing, or removing key-value pairs.
 
 # Example of a dictionary:
-my_dict = {"name": "John", "age": 30, "city": "New York"}
+my_dict = {"name": "John",
+           "age": 30,
+           "city": "New York"
+           }
 print(my_dict)
 
 # Accessing values in a dictionary:
